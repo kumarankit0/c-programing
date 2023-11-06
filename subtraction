@@ -1,0 +1,13 @@
+#inlude<stdio.h>
+
+int main()
+{
+int a,b;
+
+a = 20;
+b = 30;
+
+printf("%d", b - a );
+
+return 0;
+}
