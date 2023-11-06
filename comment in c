@@ -1,0 +1,9 @@
+// for single line comment
+/*for
+multiple line comment*/
+#include<stdio.h>
+
+int main(){
+  printf("hello world");//output hello world
+return 0;
+}
