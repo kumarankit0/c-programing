@@ -1,0 +1,14 @@
+#include(stdio.h)
+
+int main()
+{
+// we assign the value of a and b 
+
+int a = 9;
+int b = 4;
+
+// we add value of a and b by using arithmatic operator
+printf("%d",a+b);
+
+return 0;
+}
